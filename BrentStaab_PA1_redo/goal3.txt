@@ -1,0 +1,6 @@
+(has block4 color black)
+(has block5 color white)
+(has block6 color yellow)
+(is block2 block1 on-top-of)
+(is block3 block2 on-top-of)
+(is block3 block4 side-by-side)

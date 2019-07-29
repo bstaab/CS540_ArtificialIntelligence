@@ -1,0 +1,6 @@
+// We want block2 to be next to block1, with
+// block1 up in the air (thus it will need to be supported).
+// Best solution found: 21 steps.
+
+(has block1 location 4 4 2)
+(is block2 block1 side-by-side)

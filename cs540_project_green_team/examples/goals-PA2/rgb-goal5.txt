@@ -1,0 +1,9 @@
+// start with: rgb-stack.txt
+// This is another slide test.  Block 1 should be slid all the
+// way to its final position, but we should drop off blocks
+// 1 and 2 on the way.
+// Without dropping off clingons on the way, it takes 20 steps.
+// Dropping them off on the way, it takes 15.
+(has block1 location 0 3 0)
+(has block2 location 3 4 0)
+(has block3 location 6 2 0)

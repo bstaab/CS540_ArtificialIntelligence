@@ -1,0 +1,35 @@
+Test 1
+(is block3 block2 on-top-of)
+(is block2 block1 on-top-of)
+(has block2 location 2 3 1) 
+
+Test 2
+(is block3 block2 on-top-of)
+(is block2 block1 on-top-of)
+(has block1 location 2 3 0)
+
+Test 3
+(has block3 location 2 3 2)
+(has block1 location 2 3 0)
+(has block2 location 2 3 1)
+
+Test 4
+(has block3 location 2 3 2)
+(has block1 location 2 3 0)
+(is block2 block1 on-top-of)
+
+Test 5
+(has block4 location 1 0 0)
+(has block1 location 0 0 1)
+(is block1 block3 on-top-of)
+(is block2 block4 on-top-of)
+
+Test 6
+(has block1 location 0 0 0)
+(has block2 location 0 1 0)
+(has block3 location 1 0 0)
+(has block4 location 1 1 0)
+(is block5 block1 on-top-of)
+(is block6 block2 on-top-of)
+(is block7 block3 on-top-of)
+(is block8 block4 on-top-of)

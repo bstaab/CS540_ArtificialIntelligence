@@ -1,0 +1,4 @@
+(has block77 location 0 0 0)
+(has block01 location 0 1 0)
+(has block10 location 1 0 0)
+(has block11 location 1 1 0)

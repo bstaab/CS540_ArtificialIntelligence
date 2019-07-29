@@ -1,0 +1,13 @@
+(has block77 location 0 0 0)
+(has block50 location 5 0 0)
+(has block51 location 5 1 0)
+(has block52 location 5 2 0)
+(has block53 location 5 3 0)
+(has block54 location 5 4 0)
+(has block55 location 5 5 0)
+(has block56 location 5 6 0)
+(has block57 location 5 7 0)
+(has block58 location 5 8 0)
+(has block59 location 5 9 0)
+(has block510 location 5 10 0)
+

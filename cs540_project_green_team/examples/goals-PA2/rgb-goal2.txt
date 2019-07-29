@@ -1,0 +1,7 @@
+// start with: rgb-stack.txt
+// solved with: wildcard1 = block3
+// Best solution: 17 moves.
+
+(has wildcard1 location 4 2 0)
+(is block2 block3 on-top-of)
+(is block1 block2 on-top-of)

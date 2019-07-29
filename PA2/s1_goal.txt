@@ -1,0 +1,2 @@
+(has wildcard1 color blue)
+(is block2 wildcard1 side-by-side)

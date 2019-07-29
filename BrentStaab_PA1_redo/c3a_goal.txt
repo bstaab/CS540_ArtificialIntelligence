@@ -1,0 +1,3 @@
+(has block3 color green)
+(is block2 block4 side-by-side)
+(is block2 block1 on-top-of)

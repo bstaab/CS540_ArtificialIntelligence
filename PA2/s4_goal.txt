@@ -1,0 +1,2 @@
+(has block1 location 2 5 0)
+(has block3 location 2 5 2)

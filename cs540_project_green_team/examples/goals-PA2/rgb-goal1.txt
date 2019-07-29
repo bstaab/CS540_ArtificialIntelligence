@@ -1,0 +1,4 @@
+// start with: rgb-stack.txt
+// Best result: 6 steps.
+(has wildcard1 color blue)
+(is block2 wildcard1 side-by-side)

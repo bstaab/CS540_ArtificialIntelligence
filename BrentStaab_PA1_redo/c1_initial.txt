@@ -1,0 +1,5 @@
+(is block6 block1 on-top-of)
+(is block7 block2 on-top-of)
+(is block8 block3 on-top-of)
+(is block9 block4 on-top-of)
+(is block10 block5 on-top-of)

@@ -1,0 +1,5 @@
+// start with: rgb-stack.txt
+// This goal is trivial if you slide, but very expensive if you carry.
+// Best solution: 6 steps.
+(has block1 location 2 5 0)
+(has block3 location 2 5 2)

@@ -1,0 +1,10 @@
+// start with: rgb-stack.txt
+// This is the same as rgb-goal2, but with even more wildcards.
+// Solved with:	wildcard1=block3, wildcard2=block2	(best)
+// OR with:		wildcard1=block2, wildcard2=block3	(OK)
+// Solution length should be 17 or 19, depending on which you pick.
+
+(has wildcard1 location 4 2 0)
+(is wildcard2 wildcard1 on-top-of)
+(is block1 wildcard2 on-top-of)
+//(has wildcard2 color green)

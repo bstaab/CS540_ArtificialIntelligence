@@ -1,0 +1,11 @@
+(has block3 location 5 5 0)
+(has wildcard1 color red)
+(has wildcard2 color blue)
+(is block3 wildcard1 side-by-side)
+(is block1 wildcard1 on-top-of)
+(has wildcard2 location 7 6 0)
+
+// This is a tricky one to solve optimally; we do that by moving 1
+// on top of 4, and sliding them together.  That nets 20 moves.
+// Without doing that, it takes 25 moves.
+
